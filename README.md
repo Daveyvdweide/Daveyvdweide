@@ -11,5 +11,5 @@ I am...
 **Working on:**
 
 
-**Learning how to do:**
+**Teaching myself:**
 - Procedural generation
