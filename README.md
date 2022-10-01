@@ -2,14 +2,14 @@
 
 I am...
 
-Experienced in:
+**Experienced in:**
 - Laravel
 - C#
 - ReactJS
 - SQL
 
-Working on:
-- 
+**Working on:**
 
-Learning how to:
+
+**Learning how to do:**
 - Procedural generation
