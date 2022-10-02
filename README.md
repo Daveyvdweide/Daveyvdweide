@@ -9,6 +9,7 @@ I am...
 - SQL
 
 **Working on:**
+- Improving my existing projects.
 
 
 **Teaching myself:**
