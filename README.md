@@ -8,9 +8,3 @@ I am...
 - ReactJS
 - SQL
 - Visual Basic
-
-**Working on:**
-- Improving my existing projects.
-
-**Teaching myself:**
-- Procedural generation
